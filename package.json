@@ -33,7 +33,7 @@
     "appcenter-crashes": "^3.0.1",
     "currency-codes": "^2.1.0",
     "i18next": "^19.3.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "numeral": "^2.0.6",
     "react": "16.9.0",
     "react-i18next": "^11.3.4",
